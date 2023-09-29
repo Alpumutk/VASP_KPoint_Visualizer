@@ -36,6 +36,8 @@ satisfy ≥ev-deltaE and ≤ev+deltaE.
 
 Example Output:
 
+![Example output](https://user-images.githubusercontent.com/79879109/271623528-793ebf20-6c1d-44bf-9adf-b643d437c8e8.png)
+
 Installation:
 The tool requires Python 3, as well as the following libraries:
 
