@@ -8,7 +8,11 @@ For more detailed documentation, see https://vasp-visualizer.readthedocs.io/en/l
 
 ## **Installation**
 
-The tool requires Python 3, as well as the following libraries: numpy, matplotlib, pandas, ipywidgets, Plotly
+The tool requires Python 3, as well as the following libraries: **numpy**,
+**matplotlib**,
+**pandas**,
+**ipywidgets**,
+**Plotly**
 
 ## **Input File Type**
 
@@ -20,7 +24,11 @@ Transmatrix file should be in the following format, with blanks as spacing and n
 
 ## **Usage**
 
-The functions in the tool should be run in the following order: Transmatrix (once), Initialize (once), Dielectric, PlotDielectric, Interactiveplot
+The functions in the tool should be run in the following order: **Transmatrix** (once),
+**Initialize** (once),
+**Dielectric**,
+**PlotDielectric**,
+**Interactiveplot**
 
 ## **Example Output**
 <img src="https://github.com/user-attachments/assets/23bd8a9b-203b-4c94-8813-9b7dfb31680b" width="700">
